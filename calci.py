@@ -4,6 +4,5 @@ def sub(x,y):
 	return x-y
 def mul(x,y):
 	return x*y
-
-def square(x):
+def squarefun(x):
 	return x*x
